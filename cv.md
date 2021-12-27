@@ -12,3 +12,7 @@ My name is Ruslan Palianski
 ##Shortly about myself
 
 I want to learn javascript at a high level. I am purposeful, able to take responsibility and make decisions. I have experience developing themes for **Drupal 7**. I've been doing **SEO** for several years. 
+
+##Skills
+
+I freely use Drupal 7 to create websites. I freely use Drupal 7 to create websites. I use LESS a little. I use jQuery for visualization on sites.
