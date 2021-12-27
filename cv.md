@@ -16,3 +16,20 @@ I want to learn javascript at a high level. I am purposeful, able to take respon
 ##Skills
 
 I freely use Drupal 7 to create websites. I freely use Drupal 7 to create websites. I use LESS a little. I use jQuery for visualization on sites.
+
+##Code examples
+
+```
+function multiply(a,b){
+  return a * b
+}
+multiply(5, 6);
+```
+
+
+
+
+
+
+
+
