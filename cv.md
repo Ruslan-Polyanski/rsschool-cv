@@ -33,7 +33,9 @@ An example of one of my sites, which is developed in Drupal 7 (theme and structu
 
 Basic education received at school, then at college. Now I am studying in the first year of the correspondence department of **BNTU** for a mechanical engineer.
 
+##English language
 
+I speak English at A1 level. Now I attend English courses twice a week to improve my level.
 
 
 
