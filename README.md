@@ -1,3 +1,5 @@
 # rsschool-cv
-https://Ruslan-Polyanski.github.io/rsschool-cv/cv
-https://Ruslan-Polyanski.github.io/rsschool-cv/
+
+CV-Markdown: https://Ruslan-Polyanski.github.io/rsschool-cv/cv
+
+CV-HTML: https://Ruslan-Polyanski.github.io/rsschool-cv/
